@@ -1,14 +1,14 @@
 # Site settings
 title: RSDesign
 email: rei@rsdesign.llc.com
-description: A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />for free under the <a href="https://html5up.net/license">Creative Commons</a> license.
+description: Transforming ideas into reality with creative design and <br/>cutting-edge digital solutions.At RSDesign, LLC, we bring your vision<br/>  to life with our expertise in visual design and development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 
 city: Denver
 state: CO
-zip_code: 55555
+zip_code: 80129
 country: United States of America
 phone: 
 

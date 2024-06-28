@@ -1,5 +1,7 @@
 ---
 title: about
-image: pic03.jpg
+image: 14er.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+**RSDesign, LLC** propels clients' projects to life with innovative design and technical expertise. Specializing in graphic design, we master typography, book typesetting, and logo creation. Our expertise also extends to UX and software design, with experience in custom mobile app solutions. 
+
+Based in Colorado, RSDesign, LLC is led by Rei Suzuki, who cherishes his wife, three children, and exploring the beautiful mountains. Partner with us to transform your vision into reality with creativity and precision.
